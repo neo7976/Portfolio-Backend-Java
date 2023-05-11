@@ -38,7 +38,7 @@ Web приложение с `Front`, `Backend` и БД в качестве `MySQ
 ## 3. Изучение/закрепления нового материала
 - **Разбор** [*микросервисной архитектуры*](https://github.com/neo7976/Java-Mirco-Demo)
 
-- Spring [MVC](https://github.com/neo7976/Spring-MVC-IT-Proger-Test)с применение HTML5 и Thymeleaf
+- Spring [MVC](https://github.com/neo7976/Spring-MVC-IT-Proger-Test) с применение HTML5 и Thymeleaf
 
 Тренировка по созданию web-приложения(блог) на основе Spring и HTML5 страниц с БД.
 
