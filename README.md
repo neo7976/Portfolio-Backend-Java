@@ -45,8 +45,8 @@ Web приложение с `Front`, `Backend` и БД в качестве `MySQ
 
 ## Контакты для связи
 
-- телефон **(+7(999) 996-78-97)**
-- telegram **(@dmitrii_sobin)**
+- телефон *+7(999) 996-78-97*
+- telegram *@dmitrii_sobin**
 
 
 
