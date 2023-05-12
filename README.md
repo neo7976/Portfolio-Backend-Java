@@ -2,7 +2,7 @@
 
 ## 1. Учебные проекты (Нетология - Java-разработчик с нуля)
 
-**Проекты указаны по степени освоения [программы](https://netology.ru/programs/java-developer)*;
+**Проекты указаны по степени освоения [программы](https://netology.ru/programs/java-developer)*
 
 - Первая дипломная работа [*Конвертер в текстовую графику*](https://github.com/neo7976/Java-diplom-1)
 
