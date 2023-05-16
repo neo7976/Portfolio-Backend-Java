@@ -61,6 +61,19 @@ Web приложение с `Front`, `Backend` и БД в качестве `MySQ
 Тренировка по созданию web-приложения(блог) на основе Spring и HTML5 страниц с БД.
 
 
+## 4. Сертификаты Нетологии
+
+- [Java](/img/1.%20certificate%20-%20Java.pdf);
+- [Git](/img/2.%20certificate%20-%20Git.pdf);
+- [Алгоритмы и структура данных](/img/3.%20certificate%20-%20Algo.pdf);
+- [Java Core](/img/4.%20certificate%20-%20Java%20Core.pdf);
+- [Шаблоны проектирования](/main/img/5.%20certificate-%20JPAT.pdf);
+- [Многопоточное и функциональное проектирование](/img/6.%20certificate%20-%20JADV.pdf);
+- [Web, Spring & Spring MVC](/img/7.%20certificate%20-%20JSPR.pdf);
+- [Spring Boot, deployment и инфраструктуры](/img/8.%20certificate%20-%20JCLO.pdf);
+- [Хранение данных и организация безопасности](/img/9.%20certificate%20-%20JDATA.pdf);
+- [Диплом о переподготовке на Java-разработчика]().
+
 ## Контакты для связи
 
 - телефон *+7(999) 996-78-97*
