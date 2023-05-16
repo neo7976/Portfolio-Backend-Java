@@ -72,7 +72,7 @@ Web приложение с `Front`, `Backend` и БД в качестве `MySQ
 - [Web, Spring & Spring MVC](/img/7.%20certificate%20-%20JSPR.pdf);
 - [Spring Boot, deployment и инфраструктуры](/img/8.%20certificate%20-%20JCLO.pdf);
 - [Хранение данных и организация безопасности](/img/9.%20certificate%20-%20JDATA.pdf);
-- [Диплом о переподготовке на Java-разработчика]().
+- [Диплом о переподготовке на Java-разработчика](/img/Diplom_Java.pdf).
 
 ## Контакты для связи
 
