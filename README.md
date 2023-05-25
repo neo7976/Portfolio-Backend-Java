@@ -10,14 +10,7 @@
 
 **Deadline** - *1 месяц*, **выполнение работы** - *1 неделя*; 
 
-
-- **Курсовая работа №1** [(*Сетевой чат*)](https://github.com/neo7976/Java-6-Homeworks-Multithreading-6-Course);
-
-Многопоточное приложение на основе `ServerSocket`, `Socket` socketClient, закрепление знаний блока `Java Core`;
-
-**Deadline** - *1 месяц*, **выполнение работы** - *1 неделя*; 
-
-- **Курсовая работа №2** [(*Сервис перевода денег*)](https://github.com/neo7976/Java-7-Homeworks-Spring-Money/tree/data-mysql);
+- **Курсовая работа** [(*Сервис перевода денег*)](https://github.com/neo7976/Java-7-Homeworks-Spring-Money/tree/data-mysql);
 
 Создание приложения на основе фреймворка `Spring` с использование `JUnit/Mockoto`, `Docker`, `docker-compose`, интеграционные тесты, БД  - `MySQL`;
 
@@ -88,7 +81,6 @@ Web приложение с `Front`, `Backend` и БД в качестве `MySQ
 - [Алгоритмы и структура данных](/img/3.%20certificate%20-%20Algo.pdf);
 - [Java Core](/img/4.%20certificate%20-%20Java%20Core.pdf);
 - [Шаблоны проектирования](/img/5.%20certificate-%20JPAT.pdf);
-- [Многопоточное и функциональное проектирование](/img/6.%20certificate%20-%20JADV.pdf);
 - [Web, Spring & Spring MVC](/img/7.%20certificate%20-%20JSPR.pdf);
 - [Spring Boot, deployment и инфраструктуры](/img/8.%20certificate%20-%20JCLO.pdf);
 - [Хранение данных и организация безопасности](/img/9.%20certificate%20-%20JDATA.pdf);
